@@ -75,7 +75,7 @@ PUT /categories/{id} - Atualizar categorias.
 > DELETE de tasks e categorias.
 ```
 DELETE /tasks/{id} - Excluir tarefa.
-DELETE /categories{id} - Excluir categoria.
+DELETE /categories/{id} - Excluir categoria.
 ```
 
 ### Login e Registro:
